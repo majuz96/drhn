@@ -32,6 +32,16 @@ var myApp = new Framework7({
 		path: '/medicinageneral/',
     	url: 'medicinageneral.html',
     	name: 'medicinageneral',
+  		},
+		{
+		path: '/aboutus/',
+    	url: 'aboutus.html',
+    	name: 'aboutus',
+  		},
+		{
+		path: '/homepage/',
+    	url: 'homepage.html',
+    	name: 'homepage',
   		}
 	]
 });
